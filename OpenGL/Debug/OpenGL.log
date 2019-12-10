@@ -1,0 +1,60 @@
+﻿  Data.cpp
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.h(8): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(269): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(272): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(305): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(342): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(344): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(378): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(423): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(426): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(459): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(496): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(498): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(532): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(577): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(580): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(613): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(650): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(652): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(686): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(738): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(753): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(755): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(924): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1096): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1098): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1268): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1452): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1454): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1623): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1795): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1797): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(1967): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(2151): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(2153): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(2322): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(2494): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(2496): warning C4018: '>': signed/unsigned mismatch
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.cpp(2666): warning C4018: '<=': signed/unsigned mismatch
+  Source.cpp
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\data\data.h(8): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(334): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(406): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(435): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(440): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(441): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(442): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(443): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark\desktop\ide\programs\c++\opengl\opengl\src\source.cpp(470): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> C:\Users\Mark\Desktop\IDE\Programs\C++\opengl\Debug\OpenGL.exe
